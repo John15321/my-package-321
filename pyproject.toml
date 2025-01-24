@@ -2,7 +2,7 @@
 name = "my-project-321"
 # Do not touch the version
 # Is is edited dynamically by the CI job
-version = "0.0.0"
+version = "1.0.0"
 description = "Prints out Hello World!"
 authors = ["Jan Bronicki <janbronicki@gmail.com>",]
 readme = "README.md"
